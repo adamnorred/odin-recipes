@@ -1,3 +1,3 @@
 # test recipes
 
-site created for training purposes
+basic site created for training purposes
